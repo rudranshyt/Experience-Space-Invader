@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to bottom, #191970, #2E004C);
+    height: 100vh;
+    max-height: fit-content;
+    align-items: center;
+    justify-content: center;
+}
+.main h1{
+    font-size: 30px;
+    color: white;
+}
