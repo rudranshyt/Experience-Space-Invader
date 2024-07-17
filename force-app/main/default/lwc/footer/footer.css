@@ -1,0 +1,17 @@
+.main {
+    width: 100%;
+    height: 10vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    background: linear-gradient(to bottom, #191970, #2E004C);
+}
+
+.main h1 {
+    text-align: center;
+    text-wrap: nowrap;
+    font-size: 18px;
+    font-weight: 600;
+}
